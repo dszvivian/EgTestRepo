@@ -1,3 +1,3 @@
 import numpy
 
-ajsdfjad a
+# ajsdfjad a  # Removed invalid syntax
